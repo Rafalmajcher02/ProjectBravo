@@ -1,0 +1,6 @@
+Stars working propely in build
+Post processing effects
+Redo options menu
+Redo pause manu
+Perk icons
+Save time and stars collected across levels
