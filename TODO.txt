@@ -1,6 +1,7 @@
-Stars working propely in build
+Stars working propely in build - DONE
 Post processing effects
 Redo options menu
 Redo pause manu
 Perk icons
 Save time and stars collected across levels
+Fading or transition effect between levels
