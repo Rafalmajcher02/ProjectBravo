@@ -1,0 +1,19 @@
+Change looks to better fit current main menu style
+
+Change the way that HUD created
+	- Currently created in level blueprint
+	- Aimed to be created in GameManaged where it can be easly accessed for updates
+
+TODO
+*DONE*- Change name GayManager to GameManager
+*DONE*- Change widget name to WBP_HUD from WBP_MainScreen
+*DONE*- Created widget at BeginPlay in GameManager
+		- Stop creating hud in level blueprints
+- Update total stars from level with tag in GameManager
+- Updated collected stars in player but cast to GameManager to update HUD
+- Create traits in player but update GameManager to update HUD
+- Move timer to GameManager from FPC
+
+Possible TODO
+- Prevous record time 
+- Quick speed and jump indicator
